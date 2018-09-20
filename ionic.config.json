@@ -1,0 +1,7 @@
+{
+  "name": "TabMapTest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
